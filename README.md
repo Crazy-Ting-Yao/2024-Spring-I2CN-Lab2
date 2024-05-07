@@ -1,1 +1,1 @@
-# 2024-Spring-I2C-Lab2
+# 2024-Spring-I2CN-Lab2
